@@ -1,3 +1,22 @@
+# Hava Durumu Uygulaması
+
+Bu proje, kullanıcıların farklı şehirler için anlık hava durumu bilgilerini görüntüleyebileceği basit bir web uygulamasıdır. Arka plan, her 15 saniyede bir değişen dinamik görüntülerle zenginleştirilmiştir.
+
+## Özellikler
+
+- Şehir bazında hava durumu bilgilerinin görüntülenmesi.
+- Arka planda her 15 saniyede bir değişen görseller.
+- Güncel tarih ve saat bilgisi.
+- Sıcaklık, hava durumu ve en yüksek/en düşük sıcaklık bilgileri.
+
+## Kurulum
+
+Bu uygulamayı yerel olarak çalıştırmak için aşağıdaki adımları takip edin:
+
+1. Bu repoyu klonlayın:
+
+2. Klonlanan dizine gidin:
+
 3. Gerekli dosyaları kontrol edin (HTML, CSS, JavaScript).
 
 4. Bir web tarayıcısı kullanarak `index.html` dosyasını açın.
